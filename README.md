@@ -3,10 +3,10 @@ This repository contains a web-based audio visualizer that lets you see and inte
 audio file or sound input, such as music, voice recordings, or live microphone input.
 
 # Website
-````
+
 [https://audio-visualizer-345f1.web.app]
 
-````
+
 
 # How to use
 To use the audio visualizer, follow these steps:
