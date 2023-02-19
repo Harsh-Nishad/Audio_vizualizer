@@ -3,6 +3,14 @@ This repository contains a web-based audio visualizer that lets you see and inte
 audio file or sound input, such as music, voice recordings, or live microphone input.
 
 # Website
+![image](https://user-images.githubusercontent.com/94471009/219933768-ef683591-ca09-4a9d-b89e-4a293e48ab06.png)
+
+
+
+
+
+
+
 
 [https://audio-visualizer-345f1.web.app]
 
